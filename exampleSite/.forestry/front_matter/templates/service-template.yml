@@ -27,3 +27,5 @@ fields:
   - type: file
     name: image
     label: Icon
+pages:
+- content/blog/1st Post.md
