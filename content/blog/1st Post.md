@@ -2,7 +2,7 @@
 enable = true
 service = []
 subtitle = ""
-title = ""
+title = "My post is the best post"
 topTitle = ""
 
 +++
