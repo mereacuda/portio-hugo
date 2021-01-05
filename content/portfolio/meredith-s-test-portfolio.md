@@ -2,7 +2,6 @@
 challenge = ""
 client = ""
 date = ""
-draft = true
 service = ""
 shortDescription = ""
 solution = ""
