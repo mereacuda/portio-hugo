@@ -10,3 +10,4 @@ title = "Meredith's Test Portfolio"
 type = ""
 
 +++
+Welcome to my page. this is my portfolio. 
